@@ -14,7 +14,7 @@ site: bookdown::bookdown_site
 colorlinks: yes
 biblio-style: apalike
 url: 'https\://huisede.com'
-github-repo: dyadxmachina/huise
+github-repo: dyadxmachina/huisede
 cover-image: artwork/huisede.png
 ---
 # Preface {-}
