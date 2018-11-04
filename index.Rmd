@@ -18,7 +18,8 @@ github-repo: dyadxmachina/huisede
 cover-image: artwork/huisede.png
 ---
 # Preface {-}
-## Huīsè de System
+## huīsè de system
+> huīsè de system - a practical system for living in the age of entropy
 ![Image of logo placeholder](artwork/huise.png)
 
 A draft of what is fast becoming aa practical system to living **in the age of entropy** made explicit by Fanli (Christian) Zheng and Haohan Wang. 
