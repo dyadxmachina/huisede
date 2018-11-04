@@ -7,8 +7,8 @@ bookdown::gitbook:
       before: |
         <li><a href="./">huīsè de - a practical system for living in the age of entropy</a></li>
       after: |
-        <li><a href="https://github.com/dyadxmachina/huise" target="blank">Github</a></li>
-    edit: https://github.com/dyadxmachina/huise/edit/master/%s
+        <li><a href="https://github.com/dyadxmachina/huisede" target="blank">Github</a></li>
+    edit: https://github.com/dyadxmachina/huisede/edit/master/%s
     download: ["pdf", "epub"]
     fontsettings:
       theme: night

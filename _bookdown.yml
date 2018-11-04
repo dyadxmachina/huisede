@@ -1,4 +1,4 @@
-book_filename: "Huīsè de system"
+book_filename: "huīsè de system"
 delete_merged_file: true
 site: "bookdown::bookdown_site"
 output_dir: docs

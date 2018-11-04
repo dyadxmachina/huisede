@@ -8,8 +8,8 @@ description:
 documentclass: book
 link-citations: yes
 bibliography:
-# - book.bib
-# - packages.bib
+- book.bib
+- packages.bib
 site: bookdown::bookdown_site
 colorlinks: yes
 biblio-style: apalike
@@ -18,7 +18,7 @@ github-repo: dyadxmachina/huisede
 cover-image: artwork/huisede.png
 ---
 # Preface {-}
-## huīsè de system
+
 > huīsè de - a practical system for living in the age of entropy
 ![Image of logo placeholder](artwork/huise.png)
 

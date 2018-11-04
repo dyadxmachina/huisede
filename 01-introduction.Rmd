@@ -1,8 +1,8 @@
-# Introduction to Huīsè de system {#intro}
+# Introduction to huīsè de {#intro}
 
-## Just what is Huīsè de system?
+## Just what is huīsè de system?
 
-Let's start with the definition, Huīsè de - means grey or the grey, so it is the grey system. There is an intention there. Haohan and Fanli only where shades of grey. 
+Let's start with the definition, huīsè de - means grey or the grey, so it is the grey system. There is an intention there. Haohan and Fanli only where shades of grey. 
 
 
 > Why grey?
@@ -27,19 +27,31 @@ We have adapted. But are not anti-fragile. We have not found **the** answer, but
 ### A.I. and the Future
 ####  We are both working in artificial intelligence, we have called ourselves towards the action to 
 
-# Huīsè Principles
+# huīsè de principles
 Here we will talk about abstracts from our empirical experience and the knowledge we have gained from studying human behavior (from  neuroscience to cognitive psychology) and applied statistics and computational social science.
 
-# Huīsè de Elements
+# huīsè de elements
 Here we will talk about how all of the practices are tied together to create the system.
 
-# Huīsè Practices
+# huīsè de practices
 ## Schedule - Ban Kaui
 ## Clothing - Uniform
-## Nutrition Diet
-## Social Diet
-## Media Diet
-## Knowledge
+We typically wear grey as much as possible and have a daily uniform that we wear every day. 
+
+- 10 grey pants
+- 10 grey shirts
+- 3 grey button ups
+- 2 grey sweaters
+- 2 grey pairs of shoes
+
+
+## Minimal Diet
+Someone once asked why not maximize the amount of experiences and clothe yourself with diverse views from everywhere you can. It assumes that I will come back , many of those well travelled people have refined simplifications of huge 
+### Nutrition Diet
+[]()
+### Social Diet
+### Media Diet
+### Knowledge
 ## Time
 ## Death
 ## Data
