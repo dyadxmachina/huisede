@@ -1,5 +1,5 @@
-# Huīsè de system
-![Image of logo placeholder][image-1]
+# huīsè de - a practical system for living in the age of entropy
+![Image of logo placeholder][artwork/huisede.png]
 
 A draft collection of aspects of the practical system to living **in the age of entropy** by Fanli (Christian) Zheng and Haohan Wang. 
 
