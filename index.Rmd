@@ -20,7 +20,7 @@ cover-image: artwork/huisede.png
 # Preface {-}
 
 > huīsè de - a practical system for living in the age of entropy
-![Image of logo placeholder](artwork/huise.png)
+![Image of logo placeholder](artwork/huisede.png)
 
 A draft of what is fast becoming aa practical system to living **in the age of entropy** made explicit by Fanli (Christian) Zheng and Haohan Wang. 
 
@@ -34,6 +34,17 @@ Our daily practices (philosophy in action) can be followed live here.
 [here](https://haohanwang.tumblr.com "Haohan's Lifeblog") (Haohan) and 
  [here](https://anthrochristianramsey.tumblr.com "Fanli's Lifeblog") (Fanli)
 or on our LinkedIn's [here](https://linkedin.com/in/christianramsey/) and [here](https://linkedin.com/in/haohanw/)
+
+
+**For weekly updates please add your email below.**
+```{r echo=FALSE, results="asis"}
+
+library(readr)
+cat( paste( readLines( "mailchimp.html" , warn = FALSE) ) )
+
+```
+
+
 
 As you read, consider that whatever you first think, is likely to be wrong, since you may have not pushed yourself far enough to the edge to see what it would make of you, so we encourage you to try such an experiment for 3 months. We will soon lay this out for those willing ot take such a challenge on.
 
