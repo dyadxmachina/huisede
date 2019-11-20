@@ -35,6 +35,7 @@ Our daily practices (philosophy in action) can be followed live here.
  [here](https://anthrochristianramsey.tumblr.com "Fanli's Lifeblog") (Fanli)
 or on our LinkedIn's [here](https://linkedin.com/in/christianramsey/) and [here](https://linkedin.com/in/haohanw/)
 
+**Also visit our new site [ingey.life](https://ingrey.life) [here](https://ingrey.life "ingrey life, a social movement")**
 
 **For weekly updates please add your email below.**
 ```{r echo=FALSE, results="asis"}
